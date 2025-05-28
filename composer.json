@@ -1,0 +1,16 @@
+{
+    "name": "Ansidhovi Cyber Services",
+    "autoload": {
+        "psr-4": {
+            "Ansidhovi Cyber Services\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ansidhovi Cyber Services"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
